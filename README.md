@@ -2,6 +2,8 @@
 
 Nearly three years on Australian client software projects (QA, coordination, project management), now building hands-on IT, automation and security labs. Master of IT (Cyber Security), Melbourne.
 
+**Also demonstrated:** AI Engineering · Software Builder / Full-Stack Development.
+
 ## At a glance
 
 | Area | What this portfolio proves |
@@ -9,8 +11,8 @@ Nearly three years on Australian client software projects (QA, coordination, pro
 | **The problem** | Hiring teams need to see whether I can test software, explain requirements and investigate support faults; opening source files alone takes time and does not show the outcome. |
 | **What I built** | I built and documented working applications and labs, with test reports, runbooks, recorded demonstrations and explicit limits. The projects below are grouped by the job they help demonstrate. |
 | **Results** | Inspect the linked project demos and evidence: regression-tested defects, repaired lab faults, verified hardening, release recovery and reproducible reporting. Lab outcomes are distinguished from employment experience. |
-| **Skills shown** | QA, API testing, Playwright, Cypress, business analysis, UAT, project coordination, Active Directory, PowerShell, Python, SQL, CI/CD and technical documentation. |
-| **Relevant roles** | QA/Test Analyst, Business Analyst, IT Project Coordinator, Application Support Analyst, Service Desk Analyst. |
+| **Skills shown** | QA, API testing, Playwright, Cypress, business analysis, UAT, project coordination, Active Directory, PowerShell, Python, SQL, local LLMs, RAG, Next.js, TypeScript, CI/CD and technical documentation. |
+| **Relevant roles** | QA/Test Analyst, Business Analyst, IT Project Coordinator, Application Support Analyst, Service Desk Analyst, Junior AI Engineer, Software Builder, Junior Full-Stack Developer. |
 | **How it was built** | Designed, specified and reviewed by me; built with Codex as my coding agent (vibe coding). Each project links its verification scope and limits. |
 | **Try it / evidence** | Choose a job area below, open a demo, then follow the project's linked test results, source evidence and setup instructions. |
 
@@ -23,13 +25,15 @@ Nearly three years on Australian client software projects (QA, coordination, pro
 
 ## Key decisions
 
-- **Group projects by the work they prove:** testing, analysis, delivery, support, security, automation and data each have an entry point below.
+- **Group projects by the work they prove:** testing, software building, analysis, delivery, support, security, AI engineering, DevOps and data each have an entry point below.
 - **Link public, reviewable evidence:** hosted replays and fictional-data previews are labelled. Private research and video projects are omitted; each listed project explains its own limits.
 
 ## Software testing
 
 - [QA Automation](https://github.com/iamnajib71/qa-automation) — caught real portal defects and retained regression checks; Playwright, Cypress, Postman/Newman, API testing and accessibility · [Demo](https://github.com/iamnajib71/qa-automation/blob/main/docs/demo.gif).
-- [Housekeeping](https://github.com/iamnajib71/housekeeping) — makes shared cleaning and meal duties visible, with task review and private proof; Next.js, TypeScript, Google OAuth, Supabase/Postgres and Playwright · [Fictional-data interface demo](https://github.com/iamnajib71/housekeeping#interface).
+## Software Builder
+
+- [Housekeeping](https://github.com/iamnajib71/housekeeping) — built a working household app with cleaning and meal workflows, task review and private proof; Next.js frontend, TypeScript server routes, Google OAuth, Supabase/Postgres row-level security, Playwright and Vercel · [Fictional-data interface demo](https://github.com/iamnajib71/housekeeping#interface).
 
 ## Business analysis and delivery
 
@@ -44,10 +48,12 @@ Nearly three years on Australian client software projects (QA, coordination, pro
 
 - [Security Assessment Lab](https://github.com/iamnajib71/security-assessment-lab) — verifies, fixes and retests owned-lab security weaknesses; Nmap, Nuclei, authenticated checks, remediation and reporting · [Report demo](https://iamnajib71.github.io/security-assessment-lab/).
 
-## Automation, AI and DevOps
+## AI Engineering
 
-- [Service Desk Agent](https://github.com/iamnajib71/service-desk-agent) — investigates fictional tickets with approval and crash recovery; Python, local LLMs, SQLite, typed tools and independent checks · [Recorded evidence replay](https://iamnajib71.github.io/service-desk-agent/).
-- [IT Ops Lab](https://github.com/iamnajib71/it-ops-lab) — drafts support replies with measured retrieval and human escalation; n8n, PostgreSQL, Python, evaluation and regression gates · [Recorded demo](https://github.com/iamnajib71/it-ops-lab/blob/main/docs/demo.gif).
+- [Service Desk Agent](https://github.com/iamnajib71/service-desk-agent) — investigates fictional tickets with approval and crash recovery; Python, local LLMs, structured outputs, tool calling, SQLite memory, approval gates and independent evaluation · [Recorded evidence replay](https://iamnajib71.github.io/service-desk-agent/).
+- [IT Ops Lab](https://github.com/iamnajib71/it-ops-lab) — drafts support replies with measured retrieval and human escalation; RAG, n8n, PostgreSQL, Python, local LLM evaluation and regression gates · [Recorded demo](https://github.com/iamnajib71/it-ops-lab/blob/main/docs/demo.gif).
+## Automation and DevOps
+
 - [Platform Delivery Lab](https://github.com/iamnajib71/platform-delivery-lab) — rejects a faulty canary and restores healthy traffic; Kubernetes, Terraform, GitHub Actions, Argo Rollouts, Prometheus and Grafana · [Rollback demo](https://github.com/iamnajib71/platform-delivery-lab/blob/main/docs/demo.gif).
 
 ## Data
