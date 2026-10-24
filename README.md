@@ -23,7 +23,7 @@ Master of IT (Cyber Security), Melbourne.
 
 ## Security
 
-- [Security Assessment Lab](https://github.com/iamnajib71/security-assessment-lab) — verifies, fixes and retests owned-lab security weaknesses; Nmap, Nuclei, authenticated checks, remediation and reporting · [Report demo](https://iamnajib71.github.io/security-assessment-lab/).
+- [Security Assessment Lab](https://github.com/iamnajib71/security-assessment-lab) — verifies, fixes and retests owned-lab security weaknesses, then monitors the lab with a Wazuh SIEM: 7 detections mapped to MITRE ATT&CK, tested live with SOC triage tickets and rule tuning; Nmap, Nuclei, Sysmon, remediation and reporting · [Report demo](https://iamnajib71.github.io/security-assessment-lab/) · [Detection coverage](https://github.com/iamnajib71/security-assessment-lab#monitoring-and-detection).
 
 ## AI Engineering
 
