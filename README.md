@@ -6,14 +6,15 @@ Master of IT (Cyber Security), Melbourne.
 ## Software testing
 
 - [QA Automation](https://github.com/iamnajib71/qa-automation) — caught real portal defects and retained regression checks; Playwright, Cypress, Postman/Newman, API testing and accessibility · [Demo](https://github.com/iamnajib71/qa-automation/blob/main/docs/demo.gif).
+- [Real-world testing of Gitea](https://github.com/iamnajib71/qa-automation#real-world-testing) — tested an open-source Git platform: 30 manual cases, 31 automated Selenium, Playwright, API contract and accessibility checks, and 4 confirmed defects written up with a regression-tested fix · [Defect register](https://github.com/iamnajib71/qa-automation/blob/main/real-world/gitea/defects/README.md).
 
-## Software Builder
+## Software development
 
 - [Housekeeping](https://github.com/iamnajib71/housekeeping) — built a working household app with cleaning and meal workflows, task review and private proof; Next.js frontend, TypeScript server routes, Google OAuth, Supabase/Postgres row-level security, Playwright and Vercel · [Fictional-data interface demo](https://github.com/iamnajib71/housekeeping#interface).
 
 ## Business analysis and delivery
 
-- [IT Rollout Delivery Pack](https://github.com/iamnajib71/it-rollout-delivery-pack) — maps a fictional office rollout to historical lab acceptance evidence; BRD, process maps, user stories, RAID, RACI, UAT and change control · [Case-study demo](https://iamnajib71.github.io/it-rollout-delivery-pack/).
+- [IT Rollout Delivery Pack](https://github.com/iamnajib71/it-rollout-delivery-pack) — a fictional office rollout with BRD, process maps, 25 traced user stories, RAID, RACI, UAT and change control, then run in a real Jira Cloud site with a custom workflow, automation rules, JQL filters and a dashboard · [Case-study demo](https://iamnajib71.github.io/it-rollout-delivery-pack/) · [Jira evidence](https://github.com/iamnajib71/it-rollout-delivery-pack#run-in-jira).
 
 ## IT support and Windows
 
@@ -28,6 +29,8 @@ Master of IT (Cyber Security), Melbourne.
 
 - [Service Desk Agent](https://github.com/iamnajib71/service-desk-agent) — investigates fictional tickets with approval and crash recovery; Python, local LLMs, structured outputs, tool calling, SQLite memory, approval gates and independent evaluation · [Recorded evidence replay](https://iamnajib71.github.io/service-desk-agent/).
 - [IT Ops Lab](https://github.com/iamnajib71/it-ops-lab) — drafts support replies with measured retrieval and human escalation; RAG, n8n, PostgreSQL, Python, local LLM evaluation and regression gates · [Recorded demo](https://github.com/iamnajib71/it-ops-lab/blob/main/docs/demo.gif).
+
+- [Bangla Sign Language Detector](https://github.com/iamnajib71/Real-Time-Bangla-Sign-Language-Detector) — B.Sc. thesis rebuilt with reproducible evaluation: 99.58% test accuracy on 240 held-out images across 30 classes (public KU-BdSL dataset), MobileNetV2 comparison, image/video/camera inputs and CI tests; TensorFlow/Keras, OpenCV, PyQt5 · [Demo](https://github.com/iamnajib71/Real-Time-Bangla-Sign-Language-Detector#bangla-sign-language-detector).
 
 ## Automation and DevOps
 
